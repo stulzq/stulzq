@@ -11,5 +11,5 @@ My name is **Zhiqiang Li**
 - ❤ My favorite language: C#、Go、Lua.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=stulzq&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stulzq&theme=buefy&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stulzq&theme=cobalt&layout=compact)
 
