@@ -8,7 +8,7 @@ My name is **Zhiqiang Li**
 - 👔 Software engineer.
 - 🧚‍♂️ Anime lover.
 - 🌱 Like to research technology
-- ❤ My favorite language: C#、Go、Lua 
+- ❤ My favorite language: C#、Go、Lua.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=stulzq&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stulzq&theme=buefy&layout=compact)
