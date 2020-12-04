@@ -6,10 +6,10 @@ My name is **Zhiqiang Li**
 - 👨‍💻 I’m a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003133).
 - 💕 open source enthusiast.
 - 🖖 software engineer.
-- 🔭 like anime
+- 🔭 anime lover.
 - 🌱 like to research technology
-- 🌱 my favorite language: C#、Go、Lua 
+- ❤ my favorite language: C#、Go、Lua 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=stulzq&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=stulzq&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stulzq&theme=buefy&layout=compact)
 
